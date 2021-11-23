@@ -8,3 +8,6 @@ To create the overtaking frame, the street was represented by a rectangle, and i
 
 ## Rendering
 The graphics are drawn using OpenGL, along with additional GLM and SOIL libraries to make modeling matrix calculations easier and to allow texturing.
+
+## Demo
+![Demo](https://github.com/AtasieOana/Cars-Overtaking-2D/blob/main/Demo.gif)
